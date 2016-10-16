@@ -7,7 +7,6 @@
   * Digital Animal
   * AidoP
   * Angus
+
 ### Sound Artists
   * 
-  * 
-  *
